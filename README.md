@@ -4,6 +4,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Table of Contents
 - [Data Scraping](#data-scraping)
+- [Data Visualization](#data-visualization)
+- [UI Design](#UI-design)
 
 # Data Scraping
 
