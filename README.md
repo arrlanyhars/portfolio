@@ -1,6 +1,6 @@
 # Lani's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, I document a summary of my projects. Feel free to ask and discuss!
 
 ## Table of Contents
 - [Data Scraping](#data-scraping)
