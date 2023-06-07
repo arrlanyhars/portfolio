@@ -23,7 +23,7 @@ Welcome to my portfolio! Here, I document a summary of my projects. Feel free to
 
 # Data Visualization
 
-| Project Link | Tools | Contributor |
+| Project Link | Tools | Contributors |
 |---|---|---|
 | [Tableau Project - Skincare Review Dashboard](https://github.com/arrlanyhars/Data-Visualization-Skincare) <img src="https://github.com/arrlanyhars/Data-Visualization-Skincare/assets/71999653/ae4fbc04-6cec-416d-a963-6edc6f9ae920" width="150" height="90"/> | <a href="" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="tableau" width="80" height="40"/> </a> <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="scrapy" width="40" height="40"/> </a> | [Me](https://github.com/arrlanyhars) , [Rindang](https://github.com/rindangchi)
 | [Tableau Project - Sales Performance Dashboard](https://github.com/arrlanyhars/Data-Visualization-SalesPerformance) <img src="https://user-images.githubusercontent.com/71999653/244009606-51bd4228-5b04-455a-9248-3f3713b218a5.png" width="150" height="90"/> | <a href="" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="tableau" width="80" height="40"/> </a> <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="scrapy" width="40" height="40"/> </a> | [Me](https://github.com/arrlanyhars) , [Rindang](https://github.com/rindangchi)
