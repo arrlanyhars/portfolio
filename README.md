@@ -5,6 +5,8 @@ Welcome to my portfolio! Here, I document a summary of my projects. Feel free to
 ## Table of Contents
 - [Data Scraping](#data-scraping)
 - [Data Visualization](#data-visualization)
+- [Data Science and Machine Learning](#data-science-and-machine-learning)
+- [EDA, Exploratory Data Analysis](#exploratory-data-analysis)
 
 # Data Scraping
 
