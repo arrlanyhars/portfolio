@@ -8,7 +8,6 @@ Welcome to my portfolio! Here, I document a summary of my projects. Feel free to
 - [Data Science and Machine Learning](#data-science-and-machine-learning)
 - [EDA, Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Engineering](#data-engineering)
-- [UI Design](#ui-design)
 
 # Data Scraping
 
