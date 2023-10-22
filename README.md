@@ -44,3 +44,7 @@ Blog: https://github.com/arrlanyhars/arrlanyhars/blob/main/README.md#data-scrapi
 # Data Science and Machine Learning
 
 Blog: https://github.com/arrlanyhars/arrlanyhars/blob/main/README.md#data-science-and-machine-learning
+
+# Data Engineering
+
+Blog: https://github.com/arrlanyhars/arrlanyhars/blob/main/README.md#data-engineering
