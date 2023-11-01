@@ -22,7 +22,7 @@ Blog: https://github.com/arrlanyhars/arrlanyhars/blob/main/README.md#data-engine
 
 | Project Link | Technique | Tools |
 |---|---|---|
-| [Airflow Project - Dapodik](https://github.com/arrlanyhars/edtech-airflow) | Web parsing JSON API | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |
+| [Airflow Project - Dapodik](https://github.com/arrlanyhars/edtech-airflow) | Web parsing JSON API | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1280px-AirflowLogo.png" alt="python" width="80" height="40"/> </a> |
 
 
 # Data Scraping
