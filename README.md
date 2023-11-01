@@ -4,11 +4,11 @@ Welcome to my portfolio! Here, I document a summary of my projects. Feel free to
 
 ## Table of Contents
 - [Web Development](#web-development)
+- [Data Engineering](#data-engineering)
 - [Data Scraping](#data-scraping)
 - [Data Visualization](#data-visualization)
 - [Data Science and Machine Learning](#data-science-and-machine-learning)
 - [EDA, Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Engineering](#data-engineering)
 
 # Web Development
 
