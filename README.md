@@ -53,3 +53,6 @@ Blog: https://github.com/arrlanyhars/arrlanyhars/blob/main/README.md#data-scrapi
 # Data Science and Machine Learning
 
 Blog: https://github.com/arrlanyhars/arrlanyhars/blob/main/README.md#data-science-and-machine-learning
+| Project Link | Tools | Contributors |
+|---|---|---|
+| [ML Project - Phishing URL Detection](https://github.com/arrlanyhars/streamlit-phishing-url) <img src="https://github.com/arrlanyhars/streamlit-phishing-url/assets/71999653/fae59e5b-25aa-449a-af0f-af0446bde820" width="150" height="90"/> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | [Me](https://github.com/arrlanyhars) , [Rindang](https://github.com/rindangchi) , Wiwid , Chaca , and Dendy
