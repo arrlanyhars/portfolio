@@ -4,6 +4,7 @@ Welcome to my portfolio! Here, I document a summary of my projects. Feel free to
 
 ## Table of Contents
 - [Web Development](#web-development)
+- [Software Engineering](#software-engineering)
 - [Data Engineering](#data-engineering)
 - [Data Scraping](#data-scraping)
 - [Data Visualization](#data-visualization)
@@ -15,6 +16,15 @@ Welcome to my portfolio! Here, I document a summary of my projects. Feel free to
 | Project Link | Tools | Contributors |
 |---|---|---|
 | [Web Development - www.insancerdasindonesia.com](https://github.com/arrlanyhars/Web-Development-CerdasIndonesia) | <a href="" target="" rel=""> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="" width="50" height="50"/> </a> <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="" width="40" height="50"/> </a> <a href="" target="" rel=""> <img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="" width="50" height="50"/> </a> <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" alt="" width="150" height="50"/> </a> | [Me](https://github.com/arrlanyhars) , [Rindang](https://github.com/rindangchi)
+
+
+# Software Engineering
+
+| Project Link | Tools |
+|---|---|
+| [Backend Engineer - FastAPI Endpoint Integrated with SQLite](https://github.com/arrlanyhars/FastAPI-endpoint) | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/arrlanyhars/portfolio/assets/71999653/708cad73-6940-4e78-bba9-b268c7258dcc)
+" alt="fastapi" width="80" height="40"/> </a> |
+
 
 # Data Engineering
 
