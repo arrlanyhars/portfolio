@@ -22,7 +22,7 @@ Welcome to my portfolio! Here, I document a summary of my projects. Feel free to
 
 | Project Link | Tools |
 |---|---|
-| [Backend Engineering - FastAPI Endpoint Integrated with SQLite](https://github.com/arrlanyhars/FastAPI-endpoint) | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/arrlanyhars/portfolio/assets/71999653/708cad73-6940-4e78-bba9-b268c7258dcc" alt="fastapi" width="100" height="40"/> </a> |
+| [Backend Engineering - FastAPI Project - Endpoint Integrated with SQLite](https://github.com/arrlanyhars/FastAPI-endpoint) | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/arrlanyhars/portfolio/assets/71999653/708cad73-6940-4e78-bba9-b268c7258dcc" alt="fastapi" width="100" height="40"/> </a> |
 
 
 # Data Engineering
